@@ -1,0 +1,20 @@
+{
+    "Author": "GordonB007",
+    "ContentSize": 4902,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/event-hub-sample-data-generator/master/Send-SampleDeviceTempsToEventHub.ps1",
+    "DownloadCount": 1314,
+    "Id": "Event-Hub-Sample-data-55feb447",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 281,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2016-3-3T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Generates sample Events for an Azure Event Hub.The sample data is specific to temperature sensor data and should be used inside an Azure Automation Runbook on a schedule.For best results I'd suggest creating a Stream Analytics job with your Event Hub as an input, and i've alway",
+    "Title": "Event Hub - Sample data generator",
+    "UpdatedDate": "2016-3-3T00:00:00",
+    "Url": "https://github.com/azureautomation/event-hub-sample-data-generator",
+    "UserTags": "Microsoft Azure, Powershell, Event Hub"
+}
